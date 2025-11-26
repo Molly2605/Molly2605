@@ -15,7 +15,7 @@
 
 - 🌸 **I’m currently learning**:
 
-    - React
+    - Python
 
 - **Ask me about anything, I am happy to help!**
 
