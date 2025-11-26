@@ -60,6 +60,5 @@
 
 ## Check out my Social Media
 
-- [Instagram](https://www.instagram.com/molly.lss/)
 - [LinkedIn ](https://www.linkedin.com/in/milagros-lasschar/)
 
