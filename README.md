@@ -15,7 +15,7 @@
 
 - 🌸 **I’m currently learning**:
 
-    - Python
+    - TypeScript
 
 - **Ask me about anything, I am happy to help!**
 
