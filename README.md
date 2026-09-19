@@ -3,7 +3,7 @@
 ## About Me
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<p>I'm a web developer and UX/UI designer, currently halfway through my degree. I'm expanding my knowledge in both front-end and back-end development. I'm passionate about learning and creating new, productive, innovative, and creative solutions.</p> 
+<p>I'm a Software Developer with 4 years of experience building web applications and digital products. I work primarily with React, Next.js, TypeScript, REST APIs, and automation. Currently working at VV Consulting, with experience in Salesforce CRM and AI-powered solutions.</p>
 <div style="flex: 1;">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFvNjB4ZDdiM3Jyd3VrczZrdnd5Ym83dW9scXZicmVzeWczMG9pdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.webp" alt="Mi Imagen" width="150" style="margin-right: 10px;" />
 </div>  
@@ -12,10 +12,6 @@
 <br> 
 
  <p>✨Connect with me <a href="https://github.com/Molly2605">GitHub</a> ✨
-
-- 🌸 **I’m currently learning**:
-
-    - TypeScript
 
 - **Ask me about anything, I am happy to help!**
 
