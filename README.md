@@ -17,8 +17,6 @@
 
 - 💗 Outside of technology, I love 🎮 playing video games, watching anime, 🎵 listening to music, 📚 reading science fiction books and 🩰 dancing ballet
 
-- 📫 **Reach out to me at:** [mililasschar@gmail.com](mailto:mililasschar@gmail.com)
-
 <br> 
 
 ## My Skills Include
