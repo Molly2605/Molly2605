@@ -1,58 +1,293 @@
-# Hi, I'm Molly 💜
 
-## About Me
+<!-- ===================================================== -->
+<!--                    HEADER                              -->
+<!-- ===================================================== -->
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<p>I'm a Software Developer with 4 years of experience building web applications and digital products. I work primarily with React, Next.js, TypeScript, REST APIs, and automation. Currently working at VV Consulting, with experience in Salesforce CRM and AI-powered solutions.</p>
-<div style="flex: 1;">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFvNjB4ZDdiM3Jyd3VrczZrdnd5Ym83dW9scXZicmVzeWczMG9pdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.webp" alt="Mi Imagen" width="150" style="margin-right: 10px;" />
-</div>  
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C35,100:1D5147&height=190&section=header&text=MOLLY&fontSize=65&fontColor=F4B8C8&fontAlignY=42&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20%26%20UX%2FUI&descSize=15&descColor=F9E9ED&descAlignY=65" width="100%" />
+
+<br/>
+
+<a href="[https://www.linkedin.com/in/milagros-lasschar](https://www.linkedin.com/in/milagros-lasschar-software-developer/)/">
+<img src="https://img.shields.io/badge/LINKEDIN-123C35?style=for-the-badge&logo=linkedin&logoColor=F4B8C8"/>
+</a>
+<a href="https://github.com/Molly2605">
+<img src="https://img.shields.io/badge/GITHUB-123C35?style=for-the-badge&logo=github&logoColor=F4B8C8"/>
+</a>
+
 </div>
 
-<br> 
+---
 
- <p>✨Connect with me <a href="https://github.com/Molly2605">GitHub</a> ✨
+<!-- ===================================================== -->
+<!--                    ABOUT ME                            -->
+<!-- ===================================================== -->
 
-- **Ask me about anything, I am happy to help!**
+## 🌷 About Me
 
-- 💗 Outside of technology, I love 🎮 playing video games, watching anime, 🎵 listening to music, 📚 reading science fiction books and 🩰 dancing ballet
+<img align="right" width="270" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFvNjB4ZDdiM3Jyd3VrczZrdnd5Ym83dW9scXZicmVzeWczMG9pdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.webp" />
 
-<br> 
+I'm **Milagros Belén Lasschar**, a Software Developer with **4+ years of experience** building web applications and digital solutions across professional, freelance, academic, and personal projects.
 
-## My Skills Include
-- **Languages:**
+My main technologies are **React, Next.js, TypeScript, JavaScript, and Node.js**.
 
-![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)
-![HTML](https://img.icons8.com/color/40/000000/html-5.png)
-![CSS](https://img.icons8.com/color/40/000000/css3.png)
-![Python](https://img.icons8.com/color/40/000000/python.png)
+I enjoy combining software development, AI-assisted solutions, automation, and user-centered design to transform ideas into functional digital products.
 
-<br>
+**A little more about me:**
 
-- **Frameworks and Libraries:**
+- 💻 Software Development & Full Stack.
+- 🤖 AI-assisted development and workflow automation.
+- 🎨 UX/UI and Graphic Design.
+- 🌱 Currently studying Systems Engineering and Graphic Design.
+- 💗 Co-founder of STEAM Girls.
+- 🌎 Interested in technology, collaboration, and continuous learning.
 
-<div style="display: flex; gap: 10px;">
-    <img src="https://img.icons8.com/color/40/000000/react-native.png" alt="React" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/40/000000/angularjs.png" alt="Angular" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/40/000000/vue-js.png" alt="Vue.js" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/40/000000/bootstrap.png" alt="Bootstrap" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/40/000000/tailwindcss.png" alt="Tailwind CSS" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+<br clear="right"/>
+
+---
+
+<!-- ===================================================== -->
+<!--                    WHAT I DO                           -->
+<!-- ===================================================== -->
+
+## 🪄 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Development
+
+Building responsive and reusable web applications.
+
+- React & Next.js
+- TypeScript & JavaScript
+- Node.js
+- REST APIs
+- Salesforce & Apex
+- Testing with Jest
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+Exploring how AI can improve development and processes.
+
+- n8n
+- Workflow Automation
+- Prompt Engineering
+- AI-Assisted Development
+- GitHub Copilot
+- Cursor & ChatGPT
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 UX/UI Design
+
+Designing digital experiences with a user-centered approach.
+
+- Figma
+- Wireframing
+- Prototyping
+- Design Systems
+- User Research
+- Accessibility
+
+</td>
+<td width="50%" valign="top">
+
+### 🌸 Graphic Design
+
+Creating visual identities and communication materials.
+
+- Adobe Illustrator
+- Adobe InDesign
+- Brand Identity
+- Logo Design
+- Typography
+- Visual Composition
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                          -->
+<!-- ===================================================== -->
+
+## 🛠️ Tech Stack
+
+### Languages & Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,angular,vue,tailwind&theme=dark" />
+</p>
+
+### Backend, Database & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,postman&theme=dark" />
+</p>
+
+- SQL & SOQL
+- REST APIs
+- WebSockets
+- JSON & Webhooks
+- Salesforce API
+
+### Testing, Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" />
+</p>
+
+- Jest & Unit Testing
+- Git & GitHub (Branches and Pull Requests)
+- Postman
+- Vercel & Netlify
+
+### AI & Automation
+
+<p>
+<img src="https://img.shields.io/badge/n8n-123C35?style=for-the-badge&logo=n8n&logoColor=F4B8C8"/>
+<img src="https://img.shields.io/badge/OpenAI-123C35?style=for-the-badge&logo=openai&logoColor=F4B8C8"/>
+<img src="https://img.shields.io/badge/Claude-123C35?style=for-the-badge&logo=anthropic&logoColor=F4B8C8"/>
+<img src="https://img.shields.io/badge/Gemini-123C35?style=for-the-badge&logo=googlegemini&logoColor=F4B8C8"/>
+<img src="https://img.shields.io/badge/Cursor-123C35?style=for-the-badge&logo=cursor&logoColor=F4B8C8"/>
+</p>
+
+### UX/UI & Graphic Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
+</p>
+
+- User Research & Requirements Analysis
+- Wireframing & Prototyping
+- User Flows & Information Architecture
+- Design Systems
+- Usability Testing
+- Accessibility
+- Visual Identity & Brand Design
+- Typography & Visual Composition
+
+### Project Management & Collaboration
+
+<p>
+<img src="https://skillicons.dev/icons?i=jira,notion&theme=dark" />
+</p>
+
+- Scrum & Agile Methodologies
+- Jira, Trello & Notion
+- Task Tracking & Documentation
+- Team Coordination
+- Cross-functional Collaboration
+
+---
+
+<!-- ===================================================== -->
+<!--                    GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Molly2605&show_icons=true&hide_border=true&bg_color=101713&title_color=F4B8C8&icon_color=F4B8C8&text_color=E8E8E8&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molly2605&layout=compact&hide_border=true&bg_color=101713&title_color=F4B8C8&text_color=E8E8E8"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Molly2605&hide_border=true&background=101713&ring=F4B8C8&fire=F4B8C8&currStreakLabel=F4B8C8&sideLabels=E8E8E8&dates=AAAAAA"/>
+
 </div>
 
-<br>
+---
 
-- **Other Tools and Technologies:**
+<!-- ===================================================== -->
+<!--                    COMMUNITY                           -->
+<!-- ===================================================== -->
 
-![Git](https://img.icons8.com/color/40/000000/git.png)
-![Visual Studio Code](https://img.icons8.com/color/40/000000/visual-studio-code-2019.png)
-![Trello](https://img.icons8.com/color/40/000000/trello.png)
-![Notion](https://img.icons8.com/color/40/000000/notion.png)
-![Behance](https://img.icons8.com/color/40/000000/behance.png)
+## 💗 Community & Leadership
 
-<br>
+### 🌸 STEAM Girls — Co-founder
 
+I'm a co-founder of **STEAM Girls**, a community that supports women and femininities interested in entering and growing in the tech industry.
 
-## Check out my Social Media
+Through this initiative, I contribute to:
 
-- [LinkedIn ](https://www.linkedin.com/in/milagros-lasschar/)
+- Mentoring and career guidance.
+- CV reviews and interview preparation.
+- Introductory web development learning (HTML & CSS).
+- Networking and professional connections.
+- Community partnerships and technology events.
+- Visual identity and communication design.
+
+I also represent the community at technology events, collaborate with professionals, and help create opportunities for women in the tech ecosystem.
+
+<div align="center">
+
+[![WhatIDo](https://whatido.tech/badge/milagros-lasschar)](https://whatido.tech/p/milagros-lasschar)
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                    EDUCATION                           -->
+<!-- ===================================================== -->
+
+## 🎓 Education
+
+| Education | Institution |
+|:---|:---|
+| Systems Engineering · In progress | UTN |
+| Graphic Design · In progress | Federación Gráfica Bonaerense |
+| Full Stack Web Programming Diploma | UTN |
+
+---
+
+<!-- ===================================================== -->
+<!--                    BEYOND TECH                         -->
+<!-- ===================================================== -->
+
+## 🎮 Beyond Technology
+
+Outside of technology, I love:
+
+- 🎮 Playing video games.
+- 🎬 Watching anime.
+- 🎵 Listening to music.
+- 📚 Reading science fiction books.
+- 🩰 Dancing ballet.
+
+---
+
+<!-- ===================================================== -->
+<!--                    CONNECT                             -->
+<!-- ===================================================== -->
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+I'm always open to learning, sharing ideas, and collaborating on interesting projects.
+
+<a href="https://www.linkedin.com/in/milagros-lasschar/">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-123C35?style=for-the-badge&logo=linkedin&logoColor=F4B8C8"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123C35,100:1D5147&height=100&section=footer"/>
+
+</div>
 
