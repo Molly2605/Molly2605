@@ -125,14 +125,14 @@ Creating visual identities and communication materials.
 
 ### Languages & Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,angular,vue,tailwind&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,angular,vue,tailwind&theme=dark" />
 </p>
 
 ### Backend, Database & APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,postman&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,postman,mongodb,mysql,postgres&theme=dark" />
 </p>
 
 - SQL & SOQL
@@ -143,9 +143,8 @@ Creating visual identities and communication materials.
 
 ### Testing, Tools & Deployment
 
-<p>
-<img src="https://skillicons.dev/icons?i=jira,notion&theme=dark" />
-<img src="https://img.icons8.com/color/96/trello.png" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,cypress,git,github,vscode,vercel,netlify&theme=dark" />
 </p>
 
 - Jest & Unit Testing
@@ -155,23 +154,21 @@ Creating visual identities and communication materials.
 
 ### AI & Automation
 
-<p>
-  <img src="https://skillicons.dev/icons?i=n8n&theme=dark" />
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" />
-  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="48" />
-  <img src="https://cdn.simpleicons.org/googlegemini/FFFFFF" width="48" />
-  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" />
-  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" /> 
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-EC8DB5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anthropic-EC8DB5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-EC8DB5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-EC8DB5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-EC8DB5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EC8DB5?style=for-the-badge" />
 </p>
 
 ### UX/UI & Graphic Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
-<img src="https://img.icons8.com/color/96/adobe-indesign.png" />
-<img src="https://img.icons8.com/color/96/coreldraw.png" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,ae,blender&theme=dark" />
 </p>
-
+    
 - User Research & Requirements Analysis
 - Wireframing & Prototyping
 - User Flows & Information Architecture
@@ -183,8 +180,8 @@ Creating visual identities and communication materials.
 
 ### Project Management & Collaboration
 
-<p>
-<img src="https://skillicons.dev/icons?i=jira,notion&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=notion,github,gitlab,discord&theme=dark" />
 </p>
 
 - Scrum & Agile Methodologies
