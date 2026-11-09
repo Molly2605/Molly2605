@@ -1,19 +1,18 @@
-
 <!-- ===================================================== -->
-<!--                    HEADER                              -->
+<!--                      HEADER                           -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C35,100:1D5147&height=190&section=header&text=MOLLY&fontSize=65&fontColor=F4B8C8&fontAlignY=42&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20%26%20UX%2FUI&descSize=15&descColor=F9E9ED&descAlignY=65" width="100%" />
+<img src="./images/banner-molly.png" width="100%" />
 
 <br/>
 
-<a href="[https://www.linkedin.com/in/milagros-lasschar](https://www.linkedin.com/in/milagros-lasschar-software-developer/)/">
-<img src="https://img.shields.io/badge/LINKEDIN-123C35?style=for-the-badge&logo=linkedin&logoColor=F4B8C8"/>
+<a href="https://www.linkedin.com/in/milagros-lasschar-software-developer/">
+<img src="https://img.shields.io/badge/LINKEDIN-C44583?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 <a href="https://github.com/Molly2605">
-<img src="https://img.shields.io/badge/GITHUB-123C35?style=for-the-badge&logo=github&logoColor=F4B8C8"/>
+<img src="https://img.shields.io/badge/GITHUB-C44583?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -21,7 +20,7 @@
 ---
 
 <!-- ===================================================== -->
-<!--                    ABOUT ME                            -->
+<!--                      ABOUT ME                          -->
 <!-- ===================================================== -->
 
 ## 🌷 About Me
@@ -48,7 +47,7 @@ I enjoy combining software development, AI-assisted solutions, automation, and u
 ---
 
 <!-- ===================================================== -->
-<!--                    WHAT I DO                           -->
+<!--                      WHAT I DO                         -->
 <!-- ===================================================== -->
 
 ## 🪄 What I Do
@@ -119,7 +118,7 @@ Creating visual identities and communication materials.
 ---
 
 <!-- ===================================================== -->
-<!--                    TECH STACK                          -->
+<!--                      TECH STACK                        -->
 <!-- ===================================================== -->
 
 ## 🛠️ Tech Stack
@@ -156,11 +155,11 @@ Creating visual identities and communication materials.
 ### AI & Automation
 
 <p>
-<img src="https://img.shields.io/badge/n8n-123C35?style=for-the-badge&logo=n8n&logoColor=F4B8C8"/>
-<img src="https://img.shields.io/badge/OpenAI-123C35?style=for-the-badge&logo=openai&logoColor=F4B8C8"/>
-<img src="https://img.shields.io/badge/Claude-123C35?style=for-the-badge&logo=anthropic&logoColor=F4B8C8"/>
-<img src="https://img.shields.io/badge/Gemini-123C35?style=for-the-badge&logo=googlegemini&logoColor=F4B8C8"/>
-<img src="https://img.shields.io/badge/Cursor-123C35?style=for-the-badge&logo=cursor&logoColor=F4B8C8"/>
+<img src="https://img.shields.io/badge/n8n-C44583?style=for-the-badge&logo=n8n&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OpenAI-C44583?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Claude-C44583?style=for-the-badge&logo=anthropic&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Gemini-C44583?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Cursor-C44583?style=for-the-badge&logo=cursor&logoColor=FFFFFF"/>
 </p>
 
 ### UX/UI & Graphic Design
@@ -193,27 +192,27 @@ Creating visual identities and communication materials.
 ---
 
 <!-- ===================================================== -->
-<!--                    GITHUB ANALYTICS                    -->
+<!--                   GITHUB ANALYTICS                     -->
 <!-- ===================================================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Molly2605&show_icons=true&hide_border=true&bg_color=101713&title_color=F4B8C8&icon_color=F4B8C8&text_color=E8E8E8&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Molly2605&show_icons=true&hide_border=true&bg_color=101713&title_color=EC8DB5&icon_color=F4B8C8&text_color=E8E8E8&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molly2605&layout=compact&hide_border=true&bg_color=101713&title_color=F4B8C8&text_color=E8E8E8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molly2605&layout=compact&hide_border=true&bg_color=101713&title_color=EC8DB5&text_color=E8E8E8"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Molly2605&hide_border=true&background=101713&ring=F4B8C8&fire=F4B8C8&currStreakLabel=F4B8C8&sideLabels=E8E8E8&dates=AAAAAA"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Molly2605&hide_border=true&background=101713&ring=EC8DB5&fire=C44583&currStreakLabel=EC8DB5&sideLabels=E8E8E8&dates=AAAAAA"/>
 
 </div>
 
 ---
 
 <!-- ===================================================== -->
-<!--                    COMMUNITY                           -->
+<!--                      COMMUNITY                         -->
 <!-- ===================================================== -->
 
 ## 💗 Community & Leadership
@@ -242,7 +241,7 @@ I also represent the community at technology events, collaborate with profession
 ---
 
 <!-- ===================================================== -->
-<!--                    EDUCATION                           -->
+<!--                      EDUCATION                         -->
 <!-- ===================================================== -->
 
 ## 🎓 Education
@@ -251,7 +250,6 @@ I also represent the community at technology events, collaborate with profession
 |:---|:---|
 | Systems Engineering · In progress | UTN |
 | Graphic Design · In progress | Federación Gráfica Bonaerense |
-| Full Stack Web Programming Diploma | UTN |
 
 ---
 
@@ -272,7 +270,7 @@ Outside of technology, I love:
 ---
 
 <!-- ===================================================== -->
-<!--                    CONNECT                             -->
+<!--                       CONNECT                          -->
 <!-- ===================================================== -->
 
 ## 🌐 Let's Connect!
@@ -281,13 +279,12 @@ Outside of technology, I love:
 
 I'm always open to learning, sharing ideas, and collaborating on interesting projects.
 
-<a href="https://www.linkedin.com/in/milagros-lasschar/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-123C35?style=for-the-badge&logo=linkedin&logoColor=F4B8C8"/>
+<a href="https://www.linkedin.com/in/milagros-lasschar-software-developer/">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-C44583?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123C35,100:1D5147&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC8DB5,100:C44583&height=100&section=footer"/>
 
 </div>
-
