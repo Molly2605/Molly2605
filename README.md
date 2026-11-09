@@ -50,7 +50,7 @@ I enjoy combining software development, AI-assisted solutions, automation, and u
 <!--                      WHAT I DO                         -->
 <!-- ===================================================== -->
 
-## 🪄 What I Do
+## 🌟 What I Do
 
 <table>
 <tr>
@@ -144,7 +144,8 @@ Creating visual identities and communication materials.
 ### Testing, Tools & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=jira,notion&theme=dark" />
+<img src="https://img.icons8.com/color/96/trello.png" />
 </p>
 
 - Jest & Unit Testing
@@ -155,17 +156,20 @@ Creating visual identities and communication materials.
 ### AI & Automation
 
 <p>
-<img src="https://img.shields.io/badge/n8n-C44583?style=for-the-badge&logo=n8n&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/OpenAI-C44583?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Claude-C44583?style=for-the-badge&logo=anthropic&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Gemini-C44583?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Cursor-C44583?style=for-the-badge&logo=cursor&logoColor=FFFFFF"/>
+  <img src="https://skillicons.dev/icons?i=n8n&theme=dark" />
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" />
+  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="48" />
+  <img src="https://cdn.simpleicons.org/googlegemini/FFFFFF" width="48" />
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" />
+  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" /> 
 </p>
 
 ### UX/UI & Graphic Design
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
+<img src="https://img.icons8.com/color/96/adobe-indesign.png" />
+<img src="https://img.icons8.com/color/96/coreldraw.png" />
 </p>
 
 - User Research & Requirements Analysis
