@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./images/banner-molly.png" width="100%" />
+<img src="./images/banner-molly-arg.png" width="100%" />
 
 <br/>
 
